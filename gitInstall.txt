@@ -1,4 +1,5 @@
 Install git :
 we are discuss how to install git software. Frist time open a browser and type to git download then you can see more result. and click any link atlast download git. simply others software install.
+One of the most confusing parts when you're first learning git is the concept of the staging environment and how it relates to a commit.
 
 Thank You:)
